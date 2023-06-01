@@ -12,6 +12,10 @@ LawGPT
 ├──├── precedent_preprocess.csv : 전처리된 판례 데이터
 ├── utils
 ├──├── chromedriver.exe
+1-precedent_crawling.ipynb
+2-precedent_preprocess.ipynb
+3-precedent_crawling.ipynb
+4-precedent_crawling.ipynb
       .
       .
       .
