@@ -14,8 +14,8 @@ LawGPT
 ├──├── chromedriver.exe
 1-precedent_crawling.ipynb
 2-precedent_preprocess.ipynb
-3-precedent_crawling.ipynb
-4-precedent_crawling.ipynb
+3-law_hwp_to_csv.ipynb
+4-modelling.ipynb
       .
       .
       .
